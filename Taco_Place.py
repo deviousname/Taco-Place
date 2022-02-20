@@ -76,7 +76,7 @@ class Taco_Place():
             print(f'cycles: {self.cycles}')
             
     def greet(self):
-        return "Hello, welcome to Taco Time, how may I assist thee?"
+        return "Hello, welcome to Taco Place, how may I assist thee?"
 
     def customer(self):
         self.say = input('Say: ')
